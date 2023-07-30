@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1646254778 source:c:\users\furkan doðan\documents\codeblocksprojects\odev\main.c
+	<stdio.h>
+	<stdbool.h>
+
+1646254778 source:c:\users\furkan doðan\documents\codeblocksprojects\text\main.c
+	<stdio.h>
+	<stdbool.h>
+
+1646254778 source:c:\users\furkan doðan\documents\codeblocksprojects\tex\main.c
+	<stdio.h>
+	<stdbool.h>
+
